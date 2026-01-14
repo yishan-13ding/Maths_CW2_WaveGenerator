@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Maths_CW2",
+			"Path": "..\\Source\\Maths_CW2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Maths_CW2Editor",
+			"Path": "..\\Source\\Maths_CW2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

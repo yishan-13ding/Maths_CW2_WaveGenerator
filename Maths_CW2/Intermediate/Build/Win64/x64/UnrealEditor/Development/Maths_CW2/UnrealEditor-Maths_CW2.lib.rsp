@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Maths_CW2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:/Documents/GitHub/Maths_CW2_WaveGenerator/Maths_CW2/Intermediate/Build/Win64/x64/Maths_CW2Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"F:/Documents/GitHub/Maths_CW2_WaveGenerator/Maths_CW2/Intermediate/Build/Win64/x64/UnrealEditor/Development/Maths_CW2/Maths_CW2.cpp.obj"
+"F:/Documents/GitHub/Maths_CW2_WaveGenerator/Maths_CW2/Intermediate/Build/Win64/x64/UnrealEditor/Development/Maths_CW2/PerModuleInline.gen.cpp.obj"
+"F:/Documents/GitHub/Maths_CW2_WaveGenerator/Maths_CW2/Intermediate/Build/Win64/x64/UnrealEditor/Development/Maths_CW2/Default.rc2.res"
+/OUT:"F:/Documents/GitHub/Maths_CW2_WaveGenerator/Maths_CW2/Intermediate/Build/Win64/x64/UnrealEditor/Development/Maths_CW2/UnrealEditor-Maths_CW2.lib"
